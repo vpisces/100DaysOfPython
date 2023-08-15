@@ -8,3 +8,10 @@ def myFunction():
 
 # 2. Then call the function
 myFunction()
+
+
+## While Loop
+num = 5
+while num > 0:
+    print(num)
+    num -= 1
